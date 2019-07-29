@@ -2,9 +2,7 @@
 
  
 * Apresentação
-
 * Introdução a filtragem colaborativa
-
 * Base da dados
 * Conversão do dic (JSON) para pandas
 * Grafico de dispersão 
