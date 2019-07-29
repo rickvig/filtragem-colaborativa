@@ -1,5 +1,21 @@
 
 #%%
+# Introdução
+
+print('''
+A Filtragem Colaborativa baseia-se na ideia de ”boca-a-boca”em
+que a informação passada de pessoa a pessoa desempenha um papel importante
+ao tomar uma decisão. Abstraindo, as pessoas são substituı́das pelos chamados
+vizinhos mais próximos (NN) que são usuários com um padrão de preferência ou
+comportamento semelhante ao usuário atual. (Robillard et al., 2010). Filtragem
+Colaborativa depende de dois tipos diferentes de dados: (1) um conjunto de
+usuários e (2) um conjunto de itens. A relação entre usuários e itens é expressada
+principalmente em termos de ratings fornecidos pelos usuários e explorados em
+futuras sessões de recomendação para prever a classificação de um usuário (Robillard
+et al., 2010).
+''')
+
+#%%
 avaliacoes = {
 'Ana': 
     {'Freddy x Jason': 2.5, 
