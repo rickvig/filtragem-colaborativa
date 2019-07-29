@@ -124,10 +124,11 @@ y = 4.0, 1.0, 4,5
 
  
 #%%
-# Resolvendo a escla 0..1
+# Resolvendo escla para 0..1
 
-de = np.sqrt(pow(3-3, 2) + pow(3.5-4, 2)) 
-similaridade = 1 / ( 1 + np.sqrt(pow(3 - 3, 2) + pow(3.5 - 4, 2)))
+de = np.sqrt(pow(3-3, 2) + pow(3.5-4, 2))
+
+similaridade = 1 / ( 1 + de )
 
 print("distancia euclidia é {1} e a similaridade de Ana e Claudia para Exterminador do Futuro e Star Trek é {0}%".format(similaridade, de))
 

@@ -7,6 +7,8 @@ Conversão do dic (JSON) para pandas
 Grafico de dispersão 
     qual desses usuários é mais parecido com Ana?
 Calculo da distancia Euclidiana
-Calculo de similariadade
-
-
+Analisando similariadade
+Gerando Recomendações
+    Tabela de calculo
+    Implementação
+    Resultados
